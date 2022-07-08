@@ -1,5 +1,4 @@
-# Unity_Project 
-## 유니티 기반 프로젝트 진행
+# Unity mini game project
 
 ### 테마 
 - 7가지 색상의 색조합을 통해 전투에서 승리하여 빼았긴 색상을 되찾아오자
