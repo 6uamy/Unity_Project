@@ -20,3 +20,13 @@
 ### 유사한 게임
 - Hue
 - 스컬 더 히어로 슬레이어
+
+
+### 아이디어 회의
+
+![KakaoTalk_20220712_175748852](https://user-images.githubusercontent.com/79950091/178471008-da1ab3ee-fce9-4e03-a19f-e57493a6230f.jpg)
+
+![KakaoTalk_20220712_180650868](https://user-images.githubusercontent.com/79950091/178471035-5a8b14c2-0e68-404b-97b8-4c764d71cae0.jpg)
+
+![KakaoTalk_20220712_180947133](https://user-images.githubusercontent.com/79950091/178471050-84bcb08c-e5b2-4e10-a0d4-4fdeb6ace865.jpg)
+
